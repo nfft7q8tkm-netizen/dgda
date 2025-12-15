@@ -1,0 +1,16 @@
+{
+    "welcome_embed": {
+        "title": "ترحيب حار!",
+        "description": "نورت السيرفر يا غالي، نتمنى لك وقتاً ممتعاً. اقرأ القوانين.",
+        "color": 3447003,
+        "image_url": "https://example.com/default_welcome_image.png"
+    },
+    "azkar_buttons": {
+        "morn": {
+            "label": "أذكار الصباح",
+            "style": "green",
+            "content": "الآن صباح، اذكر الله!"
+        }
+    },
+    "auto_responses": {} 
+}
